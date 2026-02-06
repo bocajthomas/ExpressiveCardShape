@@ -1,13 +1,12 @@
 <div align="center">
    
-![ExpressiveCardShape demo app icon](images/app_icon.png)
-## ExpressiveCardShape
+![ExpressiveCardShape demo app icon](images/expressive-card-shape.png) 
+# ExpressiveCardShape
 ExpressiveCardShape is an android library that provides material 3 expressive card style grouping
 </div>
 
-### Screenshots (Demo)
+## Screenshots (Demo)
 <div align="center">
-   
    <img src="images/1.png" width="20%">
    <img src="images/2.png" width="20%">
    <img src="images/3.png" width="20%"> 
@@ -18,10 +17,10 @@ ExpressiveCardShape is an android library that provides material 3 expressive ca
    <img src="images/8.png" width="20%"> 
 </div>
 
-### Documentation
+## Documentation
 For detailed documentation, please visit the [DOC.md](DOC.md) file.
 
 [Maven Central](https://central.sonatype.com/artifact/uk.co.bocajsolutions/cardshape)
 
-### Licence
+## Licence
 [![License](https://img.shields.io/badge/License-Apache_2.0-black.svg)](https://opensource.org/licenses/Apache-2.0)
